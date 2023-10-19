@@ -8,7 +8,7 @@ int main()
     
    
         do{
-            printf("Escolha uma opção:\n 1 para somar.\n 2 para subtrair.\n 3 para multiplicar.\n 4 para dividir.\n 5 para sair.\n");
+            printf("Escolha a opção:\n 1 para somar.\n 2 para subtrair.\n 3 para multiplicar.\n 4 para dividir.\n 5 para sair.\n");
             scanf("%d", &opcao);
             switch (opcao)
             {
